@@ -1,0 +1,6 @@
+name,department,salary
+Alice,HR,50000
+Bob,Engineering,70000
+Charlie,Engineering,65000
+Diana,Marketing,55000
+Eve,HR,NaN
